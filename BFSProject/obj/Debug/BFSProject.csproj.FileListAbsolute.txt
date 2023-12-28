@@ -1,0 +1,10 @@
+G:\SupportCustomer\BFSWinform\BFSProject\bin\Debug\BFSProject.exe.config
+G:\SupportCustomer\BFSWinform\BFSProject\bin\Debug\BFSProject.exe
+G:\SupportCustomer\BFSWinform\BFSProject\bin\Debug\BFSProject.pdb
+G:\SupportCustomer\BFSWinform\BFSProject\obj\Debug\BFSProject.csproj.AssemblyReference.cache
+G:\SupportCustomer\BFSWinform\BFSProject\obj\Debug\BFSProject.Properties.Resources.resources
+G:\SupportCustomer\BFSWinform\BFSProject\obj\Debug\BFSProject.csproj.GenerateResource.cache
+G:\SupportCustomer\BFSWinform\BFSProject\obj\Debug\BFSProject.csproj.CoreCompileInputs.cache
+G:\SupportCustomer\BFSWinform\BFSProject\obj\Debug\BFSProject.exe
+G:\SupportCustomer\BFSWinform\BFSProject\obj\Debug\BFSProject.pdb
+G:\SupportCustomer\BFSWinform\BFSProject\obj\Debug\BFSProject.Form.resources
